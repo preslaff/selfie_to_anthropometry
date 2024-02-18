@@ -5,7 +5,10 @@ preslav.penev@gmail.com
 
 ## **Project**
 
-### Selfie to Anthropometry: Automated Detection, Segmentation, and Measurement of Human Body Metrics
+### Selfie to Anthropometry: Automated Detection, Segmentation, and Measurement of Human Body Metrics 
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/drive/1bojL5lZ39HZafiGDbEeCCUazNHczbCHH?usp=sharing)
+  
+</a>
 
 **Abstract**
 
